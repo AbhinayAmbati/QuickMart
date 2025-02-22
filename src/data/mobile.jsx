@@ -17,7 +17,7 @@ const mobiles = [
             storage: ["256GB", "512GB", "1TB"],
             camera: {
                 main: "48MP",
-                ultraWide: "12MP",
+                ultraWide: "14MP",
                 telephoto: "12MP",
                 front: "12MP TrueDepth"
             },
